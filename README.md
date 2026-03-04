@@ -15,8 +15,10 @@ Final result screen with performance message
 Restart quiz functionality
 Responsive design for smaller screens
 
-Tech Stack
+Tech Stack:
 
+```
 HTML5 – Structure of the application
 CSS3 – Styling and responsive design
 JavaScript (Vanilla JS) – Application logic and DOM manipulation
+```
