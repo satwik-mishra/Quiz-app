@@ -5,7 +5,7 @@ This project demonstrates core frontend concepts such as DOM manipulation, event
 The quiz presents multiple-choice questions, provides instant feedback on answers, tracks the user's score, and displays a final result screen.
 
 Features:
-
+```
 Interactive multiple-choice quiz
 Real-time score tracking
 Visual feedback for correct and incorrect answers
@@ -14,6 +14,7 @@ Dynamic question rendering
 Final result screen with performance message
 Restart quiz functionality
 Responsive design for smaller screens
+```
 
 Tech Stack:
 
